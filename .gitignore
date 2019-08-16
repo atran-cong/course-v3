@@ -1,5 +1,6 @@
 # Conda
 miniconda3/
+miniconda-installer.sh
 
 *.pth
 *.bak
