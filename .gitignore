@@ -1,3 +1,6 @@
+# Conda
+miniconda3/
+
 *.pth
 *.bak
 *.log
